@@ -15,7 +15,7 @@ lang: en
 
 Hello! My name is Slava and I'm IT specialist with 9 years of work experiency. I'm interested in three areas: development, management, and, more recently, the media sphere.
 
-If you're interested in short description: here is [my CV]({{ 'assets/pdf/CV.pdf' | relative_url }}) and welcome to [my LinkedIn](https://www.linkedin.com/in/vyacheslav-goryunov/). 
+If you're interested in short description: here is [my CV]({{ 'assets/pdf/VyacheslavGoryunov_CV.pdf' | relative_url }}) and welcome to [my LinkedIn](https://www.linkedin.com/in/vyacheslav-goryunov/). 
 
 But if you're interested in a detailed description then I'll tel you about my experiency in each direction. 
 
