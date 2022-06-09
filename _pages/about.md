@@ -17,7 +17,7 @@ Hello! My name is Slava and I'm IT specialist with 9 years of work experiency. I
 
 If you're interested in short description: here is [my CV]({{ 'assets/pdf/VyacheslavGoryunov_CV.pdf' | relative_url }}) and welcome to [my LinkedIn](https://www.linkedin.com/in/vyacheslav-goryunov/). 
 
-But if you're interested in a detailed description then I'll tel you about my experiency in each direction. 
+But if you're interested in a detailed description then I'll tell you about my experiency in each direction. 
 
 ## Development
 My development journey started in 2013.
@@ -34,10 +34,10 @@ My management journey began little lately: in 2017.
 - And the next period, which also continues now: I'm team lead and tech lead in adtech company. We started with team of three, and now I'm happy to work with six professional developers. There are already serious tasks here, a large client base, the 300 thousand requests per second, the processes and a complex infrastructure of hundreds of servers.
 
 ## Media
-This direction is very young for me: formal it started in November 2020. Because in Novembe 2020 I've created [my russian YouTube channel about IT]({{ 'projects/YouTube' | relative_url }}).
+This direction is very young for me: formal it started in November 2020. Because in November 2020 I've created [my russian YouTube channel about IT]({{ 'projects/YouTube' | relative_url }}).
 
 I'm happy to share my findings and experiency with other people because if any of simple movie would help to solve someone problem, which is a part of something bigger, than that's "bigger" will be closer to completion. And who knows how cool this idea can be ;) 
 
 -- 
 
-I'm always glad for any offers and greetings, so please don't be shy to message me in the social profiles below. And don't be afraid of simple message: "Hi, Slava! I'm John and I'm developer too. Nice to meet you!" ;)
+I'm always glad for any offers and greetings, so please don't be shy to message me in the social profiles below. And don't be afraid of a simple message like: "Hi, Slava! I'm John and I'm developer too. Nice to meet you!" ;)

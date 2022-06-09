@@ -12,7 +12,6 @@ footer_text: >-
   Pages</a>.
 keywords: 'golang-programmer,vyacheslav-goryunov,portfolio-website'
 lang: en
-
 icon: "\U0001F9E9"
 url: 'https://vyacheslav.me'
 baseurl: null
@@ -43,7 +42,7 @@ wikidata_id: null
 dblp_url: null
 stackoverflow_id: null
 contact_note: 'Feel free to write me to <a href="https://t.me/VyacheslavG">Telegram!</a>'
-google_analytics: null
+google_analytics: G-YZBG52JPFY
 google_site_verification: null
 bing_site_verification: null
 panelbear_analytics: null
@@ -102,7 +101,6 @@ plugins:
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
-
 defaults:
   - scope:
       path: assets/**/*.*
