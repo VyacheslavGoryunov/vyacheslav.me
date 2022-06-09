@@ -172,7 +172,7 @@ imagemagick:
   output_formats:
     webp: '-quality 75%'
 jekyll-diagrams: null
-enable_google_analytics: false
+enable_google_analytics: true
 enable_panelbear_analytics: false
 enable_google_verification: false
 enable_bing_verification: false
