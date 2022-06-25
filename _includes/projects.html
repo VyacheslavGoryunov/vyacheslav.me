@@ -15,9 +15,9 @@
         <div class="card-body">
           <h2 class="card-title">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
-          <div class="row ml-1 mr-1 p-0">
+          <div class="row ml-1 mr-1 mt-2 p-0">
             {%- if project.github -%}
-            <div class="github-icon">
+            <div class="github-icon mr-1">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
                 <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
               </div>
@@ -29,6 +29,13 @@
               {%- endif %}
             </div>
             {%- endif %}
+            {%- if project.youtube -%}
+            <div class="youtube-icon mr-1">
+              <div class="icon" data-toggle="tooltip" title="Go to the channel">
+                <a href="{{ project.youtube }}"><i class="fab fa-youtube gh-icon"></i></a>
+              </div>
+            </div>
+            {%- endif -%}
           </div>
         </div>
       </div>
