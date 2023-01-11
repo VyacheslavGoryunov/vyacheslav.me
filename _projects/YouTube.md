@@ -1,8 +1,8 @@
 ---
-title: Славный АйТи
+title: VyacheArt
 layout: page
 description: Russian YouTube channel about IT
-img: assets/img/youtube-gloriousit-thumbnail.jpg
+img: assets/img/channel-cover.jpg
 importance: 1
 category: personal
 youtube: https://www.youtube.com/channel/UCK4ZXaZpIVqO9iNbN_8Sxfw/
