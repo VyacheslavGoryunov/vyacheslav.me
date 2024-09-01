@@ -1,21 +1,24 @@
 ---
-title: VyacheArt
+title: Славный АйТи
 layout: page
-description: Russian YouTube channel about IT
+description: "Slavniy IT: A Russian Tech blog on YouTube"
 img: assets/img/channel-cover.jpg
 importance: 1
 category: personal
 youtube: https://www.youtube.com/channel/UCK4ZXaZpIVqO9iNbN_8Sxfw/
 ---
 
-{% include figure.html path="assets/img/youtube-screenshot-1.jpg" title="channel screenshot" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/youtube-screenshot-1.jpeg" title="channel screenshot" class="img-fluid rounded z-depth-1" %}
 
-The channel was created in November 2020 and after that I've told about next subjects:
-- GoLang
-- Programming on ESP8266 with Go (by different ways!)
-- AdTech
-- ClickHouse
+Slavniy IT is a Russian-language YouTube channel where technology, programming, and personal projects come to life!
 
-And many movies are prepairing now. I'm not ready to put everything on the table but shortly that videos will be about relocation, motivation, personal difficulties  and much-much things which I want to tell you ;) 
+What you'll find here:
+- In-depth tutorials on GoLang libraries
+- Exploration of unique tech solutions
+- Insights into personal coding projects
+- Educational content for developers of all levels
 
-# <a href="https://vyache.link/youtube">Subscribe!</a>
+Our mission: Sharing knowledge and experience to empower fellow developers and tech enthusiasts in the Russian-speaking community.
+
+The channel offers a space for curious minds to dive into the fascinating world of IT together, all in Russian.
+# <a href="https://www.youtube.com/channel/UCK4ZXaZpIVqO9iNbN_8Sxfw/">Subscribe!</a>
