@@ -3,7 +3,7 @@ title: обо мне на русском
 layout: about
 key: about-ru
 permalink: "/about-ru/"
-subtitle: "<b>Ведущий программный инженер • YouTube автор</b>"
+subtitle: "<b>Ведущий программный инженер • YouTube автор • Инди-разработчик</b>"
 profile:
   align: right
   image: prof_pic.jpg

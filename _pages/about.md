@@ -2,7 +2,7 @@
 title: about
 layout: about
 permalink: "/"
-subtitle: "<b>Principal Software Engineer • YouTube author</b>"
+subtitle: "<b>Principal Software Engineer • YouTube author • Indie-developer</b>"
 profile:
   align: right
   image: prof_pic.jpg

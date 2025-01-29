@@ -44,7 +44,7 @@ bing_site_verification: null
 panelbear_analytics: null
 blog_name: vyacheslav
 blog_nav_title: null
-blog_description: a simple whitespace theme for academics
+blog_description: 'Vyacheslav Goryunov personal portfolio website.'
 permalink: '/blog/:year/:title/'
 pagination:
   enabled: true

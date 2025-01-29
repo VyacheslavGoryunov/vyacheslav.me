@@ -3,7 +3,7 @@ title: Славный АйТи
 layout: page
 description: "Slavniy IT: A Russian Tech blog on YouTube"
 img: assets/img/channel-cover.jpg
-importance: 1
+importance: 2
 category: personal
 youtube: https://www.youtube.com/channel/UCK4ZXaZpIVqO9iNbN_8Sxfw/
 ---

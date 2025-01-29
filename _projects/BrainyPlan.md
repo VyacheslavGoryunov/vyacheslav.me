@@ -3,7 +3,7 @@ title: BrainyPlan
 layout: page
 description: Android application to manage your tasks and goals
 img: assets/img/brainyplan-thumbnail-2.jpg
-importance: 2
+importance: 3
 category: personal
 ---
 
